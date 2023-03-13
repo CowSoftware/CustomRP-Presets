@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1021491510845395085</ID>
+  <Details>Playing the Game</Details>
+  <State></State>
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>4</Timestamps>
+  <CustomTimestamp>2022-08-02T11:47:46</CustomTimestamp>
+  <LargeKey>https://cdn.discordapp.com/attachments/1021457015878463498/1021461839093186660/mari0.png</LargeKey>
+  <LargeText>Mari0</LargeText>
+  <SmallKey>icon</SmallKey>
+  <SmallText>Super Mario Bros. with Portals</SmallText>
+  <Button1Text>Get Mari0 Here</Button1Text>
+  <Button1URL>https://stabyourself.net/mari0/</Button1URL>
+  <Button2Text></Button2Text>
+  <Button2URL></Button2URL>
+</Preset>

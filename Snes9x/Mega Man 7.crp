@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>863385642243194881</ID>
+  <Details>Mega Man 7</Details>
+  <State>Playing</State>
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>4</Timestamps>
+  <CustomTimestamp>2006-05-29T01:19:26</CustomTimestamp>
+  <LargeKey>https://i.imgur.com/oKXXuzl.gif</LargeKey>
+  <LargeText>Snes9x is an emulator for SNES</LargeText>
+  <SmallKey>snes</SmallKey>
+  <SmallText>1.6.1</SmallText>
+  <Button1Text />
+  <Button1URL />
+  <Button2Text />
+  <Button2URL />
+</Preset>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1000495940265853080</ID>
+  <Details>Playing a Game</Details>
+  <State>Mario Kart DS</State>
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>4</Timestamps>
+  <CustomTimestamp>2022-08-02T11:47:46</CustomTimestamp>
+  <LargeKey>https://cdn.discordapp.com/attachments/1021457015878463498/1021458193156673536/mario_kart_ds.jpg</LargeKey>
+  <LargeText>Mario Kart DS</LargeText>
+  <SmallKey>icon</SmallKey>
+  <SmallText>MelonDS: A Free and Open-Source DS Emulator</SmallText>
+  <Button1Text>Get MelonDS Here</Button1Text>
+  <Button1URL>https://melonds.kuribo64.net/</Button1URL>
+  <Button2Text>Donate</Button2Text>
+  <Button2URL>https://melonds.kuribo64.net/donate.php</Button2URL>
+</Preset>
